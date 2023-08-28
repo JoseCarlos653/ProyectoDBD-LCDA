@@ -1,0 +1,787 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemaInventarioLCDA
+</name>
+</assembly>
+<members>
+<member name="T:SistemaInventarioLCDA.My.Resources.BtnRegresar">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.BtnRegresar.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.BtnRegresar.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.BtnRegresar.BtnRegresar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.agregarProd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.agregarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.boton_de_inicio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.botonCerrar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.botonMaximizar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.botonMinimizar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.botonRegresar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.botonRegresar1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.BtnMarcas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.btnMaximizar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.BtnPermiso">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.BtnRegresar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.categoriaprod">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.categorias">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.cerrar_sesion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.cerrarBTN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.editarProd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.editarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.eliminarProd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.eliminarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.IconoLCDA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgAgregar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgAgregarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgBuscar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgCategoria">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgEditar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgEditarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgEliminar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgEliminarUser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgEntrada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgFiltrar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgLimpiarCampos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgLimpiarCampos1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgProductos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgRoles">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgSalida">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.imgUsuarios">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.impresion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.ingresar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.ingresar1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.lapiz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.limpiarCampos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.logoNuevo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.lupa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.menu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.minimizarBTN">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.movimientos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.pibMarcas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.PibPermiso">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.productosman">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.recargar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.reportesMov">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.usuario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.usuario_de_perfil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.usuario_de_perfil1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.usuarios">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SistemaInventarioLCDA.My.Resources.Resources.usuariosRoles">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.CategoríaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.EmpresaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MarcaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MovimientoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.PermisoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.ProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolPermisoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTProductosBuscarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMovimientosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMarcasXProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptPreciosAltoABajosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosXPrecioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCategoriasXProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTMovimientosBuscarDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasSalidasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasEntradasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCantProdXMarcaCatDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.CategoríaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.EmpresaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MarcaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MovimientoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.PermisoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.ProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolPermisoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTProductosBuscarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMovimientosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMarcasXProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptPreciosAltoABajosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosXPrecioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCategoriasXProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTMovimientosBuscarRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasSalidasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasEntradasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCantProdXMarcaCatRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.CategoríaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.EmpresaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MarcaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.MovimientoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.PermisoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.ProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RolPermisoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTProductosBuscarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMovimientosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptMarcasXProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptPreciosAltoABajosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosXPrecioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCategoriasXProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.DTMovimientosBuscarRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasSalidasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptProductosMasEntradasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSet.RptCantProdXMarcaCatRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.CategoríaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.EmpresaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.MarcaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.MovimientoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.PermisoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.ProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RolPermisoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.DTProductosBuscarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptProductosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptMovimientosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptMarcasXProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptPreciosAltoABajosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptProductosXPrecioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptCategoriasXProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.DTMovimientosBuscarTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptProductosMasSalidasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptProductosMasEntradasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.RptCantProdXMarcaCatTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaInventarioLCDA.DBLaCasaDelArteDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaInventarioLCDA.DBLaCasaDelArteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaInventarioLCDA.DBLaCasaDelArteDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.UpdateAll(SistemaInventarioLCDA.DBLaCasaDelArteDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaInventarioLCDA.DBLaCasaDelArteDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
